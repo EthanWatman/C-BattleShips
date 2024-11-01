@@ -1,0 +1,6 @@
+A Carrier 5
+B Battleship 4
+C Cruiser 3
+S Submarine 3
+D Destroyer 2
+

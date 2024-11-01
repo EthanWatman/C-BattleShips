@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665969383 source:c:\users\ewatm\onedrive\documents\uni\semester 2 2022\c\1305eng\battleships\battleships\battleships.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"battleships.h"
+
+1665722508 c:\users\ewatm\onedrive\documents\uni\semester 2 2022\c\1305eng\battleships\battleships\battleships.h
+
